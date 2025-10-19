@@ -1,0 +1,3 @@
+[submodule "external/rag-from-scratch"]
+	path = external/rag-from-scratch
+	url = https://github.com/langchain-ai/rag-from-scratch.git
